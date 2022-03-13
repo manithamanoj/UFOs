@@ -9,20 +9,20 @@ In this challenge we are going to work on Dana’s webpage and a dynamic table t
 We modify the code in index.html file to create more table filters. We add filters for the city, state, country, and shape. Next, we refactor the code in app.js file. We replace the handleClick() function in the app.js file with a new function that saves the element, value, and id of the filter that was changed. We then create a new function to loop through the dataset and keep only the results that match the search criteria. The webpage will be updated with the search criteria after pressing “Enter”.
 
 Results
-* This is the screen shot of the webpage
+* This is the screen shot of the webpage.
 
 <img width="1431" alt="Screen Shot 2022-03-12 at 9 23 34 PM" src="https://user-images.githubusercontent.com/72629108/158045771-b6ab52fe-c87e-4655-83c9-bf349fc6167a.png">
 
 
 
 
-* This is the picture with all the filters we added
+* This is the picture with all the filters we added.
 
 <img width="1431" alt="Screen Shot 2022-03-12 at 9 23 48 PM" src="https://user-images.githubusercontent.com/72629108/158045779-a97c0761-ce0e-43ea-8ed9-efeec0943390.png">
 
 
 
-* Including few pictures with the one search criteria and multiple search criteria.Everything is working perfectly.
+* Including few pictures with the one search criteria and multiple search criteria. Everything is working perfectly.
 
 <img width="1431" alt="Screen Shot 2022-03-12 at 9 24 28 PM" src="https://user-images.githubusercontent.com/72629108/158045795-706c7eae-966b-4cf7-b4b8-a71fe4ecf18a.png">
 
